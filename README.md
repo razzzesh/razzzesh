@@ -6,8 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=razzesh" alt="razzesh" /></a> </p>
 
-- 🔭 I’m currently Studying Computer Science **Node.js React.js ML**
-
+- 🔭 I’m currently Studying Computer Science 
 - 🌱 I’m currently learning **Node.js React.js ML**
 
 - 💬 Ask me about **C++, Python**
