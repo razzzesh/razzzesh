@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I'm Rajesh</h1>
+ <h1 align="center">Hi 👋, I'm Rajesh</h1>
 <h3 align="center">A passionate Developer from India</h3>
 
 <img align="right" alt "coding" width ="450" src="https://github.com/razzzesh/razzzesh/blob/main/gitbanner.png" >
@@ -29,4 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=razzesh&" alt="razzesh" /></p>
 
- -->
+ 
