@@ -7,7 +7,7 @@
 <img align="right" alt "coding" width ="450" src="https://github.com/razzzesh/razzzesh/blob/main/gitbanner.png" > -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razzesh&label=Profile%20views&color=0e75b6&style=flat" alt="razzesh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=razzesh" alt="razzesh" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=razzesh" alt="razzesh" /></a> </p> -->
 
 - 🔭 I’m currently Studying Computer Science 
 - 🌱 I’m currently learning **Node.js React.js ML**
