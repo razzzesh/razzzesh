@@ -1,4 +1,4 @@
-![logo](https://github.com/razzzesh/razzzesh/blob/main/gitbanner.png)
+![logo](https://github.com/razzzesh/razzzesh/blob/main/gitbanner2.gif)
 
 
 <h1 align="center">Hi 👋, I'm Rajesh</h1>
