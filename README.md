@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **rajeshthakare631@gmail.com**
 
-- ⚡ Fun fact **There more trees on Earth than the stars in the Milky Way**
+- ⚡  **There more trees on Earth than the stars in the Milky Way**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
