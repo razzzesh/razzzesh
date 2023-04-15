@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **C++, Python**
 
-- 📫 How to reach me **rajeshthakare621@gmail.com**
+- 📫 How to reach me **rajeshthakare631@gmail.com**
 
 - ⚡ Fun fact **There more trees on Earth than the stars in the Milky Way**
 
