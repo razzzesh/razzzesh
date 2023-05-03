@@ -30,6 +30,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=razzzesh&show_icons=true&locale=en" alt="razzesh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=razzzesh&" alt="razzesh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=razzzesh&" alt="razzzesh" /></p>
 
  
